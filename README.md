@@ -75,7 +75,3 @@ Evaluation metrics used:
 - Seaborn  
 - Jupyter Notebook  
 
----
-
-## 📂 Project Structure
-
